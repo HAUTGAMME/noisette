@@ -1,4 +1,4 @@
-const cacheName = 'Noisette-pwa-v1';
+const CACHE_NAME = 'noisette-v2';
 const assets = [
   './',
   './index.html',
