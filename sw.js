@@ -3,7 +3,7 @@ const assets = [
   './',
   './index.html',
   './style.css', // thabet f esm el css mte3ek
-  './noisette logo.jpg'   // zid hna ay image t7ebha tetkhabba offline
+  './noissette-logo.jpg'   // zid hna ay image t7ebha tetkhabba offline
 ];
 
 self.addEventListener('install', e => {
